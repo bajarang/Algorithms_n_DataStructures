@@ -54,7 +54,7 @@ Geometrical and Network Flow Algorithms:
   -    Chinese remainder theorem and Modulo Inverse Implementation
   -    nCr%m and this.
 
-Data Structures
+Data Structures:
   -    Binary Indexed Tree or Fenwick tree
   -    Segment Tree (RMQ, Range Sum and Lazy Propagation)
   -    K-D tree (See insert, minimum and delete)
